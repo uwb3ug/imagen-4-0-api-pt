@@ -104,6 +104,17 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-cc4e19) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [imagen-4-0-prompts-pt](https://github.com/uwb3ug/imagen-4-0-prompts-pt)
+- **Same model, other languages** — 9 more language builds: 中文 `imagen-4-0-api-cn` · Deutsch [imagen-4-0-api-de](https://github.com/jlaj4ebu/imagen-4-0-api-de) · Español [imagen-4-0-api-es](https://github.com/z1haiu6yhi/imagen-4-0-api-es) · Français [imagen-4-0-api-fr](https://github.com/cdi8dv7g2d4/imagen-4-0-api-fr) · Relay/gateway [imagen-4-0-api-gateway](https://github.com/fgzd2/imagen-4-0-api-gateway) · Bahasa `imagen-4-0-api-id` · 日本語 `imagen-4-0-api-ja` · 한국어 [imagen-4-0-api-ko](https://github.com/iupxojk1-f/imagen-4-0-api-ko) · Русский [imagen-4-0-api-ru](https://github.com/ov0xez/imagen-4-0-api-ru)
+- **More models in this language** — [midjourney-api-pt](https://github.com/l-ca0/midjourney-api-pt) · [gemini-2-5-flash-image-preview-api-pt](https://github.com/ycx8l0/gemini-2-5-flash-image-preview-api-pt) · [nano-banana-api-pt](https://github.com/erujt71i1lx/nano-banana-api-pt) · [gemini-3-1-flash-image-preview-api-pt](https://github.com/hutjwux0nt9h/gemini-3-1-flash-image-preview-api-pt) · [nano-banana-2-api-pt](https://github.com/ydkd8kdkl8n/nano-banana-2-api-pt) · [gemini-3-pro-image-preview-api-pt](https://github.com/qss2d-66qb2n7/gemini-3-pro-image-preview-api-pt)
+- **Topic hubs** — every build of this model, all languages: [imagen-4-0](https://github.com/topics/imagen-4-0) · [imagen-4-0-api](https://github.com/topics/imagen-4-0-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
